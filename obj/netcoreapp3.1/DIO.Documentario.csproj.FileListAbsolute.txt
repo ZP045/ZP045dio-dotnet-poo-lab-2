@@ -1,0 +1,13 @@
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario.deps.json
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario.runtimeconfig.json
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario.runtimeconfig.dev.json
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario.dll
+/home/jaine/sandbox/dio/DIO.Documentario/bin/Debug/netcoreapp3.1/DIO.Documentario.pdb
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.csprojAssemblyReference.cache
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.DIO.Documentario.AssemblyInfoInputs.cache
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.AssemblyInfo.cs
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.csproj.CoreCompileInputs.cache
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.dll
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.pdb
+/home/jaine/sandbox/dio/DIO.Documentario/obj/Debug/netcoreapp3.1/DIO.Documentario.genruntimeconfig.cache
